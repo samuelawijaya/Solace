@@ -1,6 +1,7 @@
 # 🌙 Solace
 
 **Solace** is an unfinished 2D Unity project currently in development.  
+![Main Menu](solace1.png)
 
 ---
 
@@ -16,7 +17,7 @@
 ---
 
 ## 📸 Preview
-*___
+![Gameplay](solace2.png)
 
 ---
 
